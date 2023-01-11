@@ -4,6 +4,7 @@ $c = array(
     'sitename' => 'Absoluta & Bela',
     'siteslogan' => '',
     'sitelogo' => '',
+    'sitefavicon' => '',
     'titlesep' => '&middot;&middot;&middot;',
     'siteemail' => 'admin@absolutabela.com',
     'ucookie' => 'mtuserdata',

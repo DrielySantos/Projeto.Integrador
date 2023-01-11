@@ -1,6 +1,7 @@
-/**
- * JavaScript desta página.
- */
+// Detecta cliques nas div dos artigos:
+$('.artbox').click(goArticle);
 
-// Define o <title> desta página:
-setTitle();
+// Processa os clicks:
+function goArticle() {
+    location.href = $(this).attr('data-link');
+}

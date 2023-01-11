@@ -1,9 +1,6 @@
-<!-- Conteúdo principal -->
-<!--<div id="wrap">-->
+
 <article>
-
     <h3>Página inicial</h3>
-
 </article>
 
 <!-- Conteúdo complementar / barra lateral -->
